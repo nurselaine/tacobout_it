@@ -1,0 +1,20 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "A React Chat room application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "lint": "eslint **/*.js",
+    "test": "jest --verbose --coverage",
+    "test-watch": "jest --watchAll --verbose --coverage",
+    "db:config": "sequelize init:config",
+    "db:create": "sequelize db:create"
+  },
+  "author": "Elaine Huynh",
+  "license": "ISC",
+  "dependencies": {
+    "react-router-dom": "^6.4.4",
+    "uuid": "^9.0.0"
+  }
+}
