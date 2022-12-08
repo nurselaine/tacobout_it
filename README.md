@@ -1,6 +1,6 @@
 # taco-bout-it
 
-  Welcome to Tacobout it! A chat app created using Node js Express Socket.io (please refer to [client-side]() for more info!). Tacobout provides users the ability to join an anonymous chat rooms. 
+  Welcome to Tacobout it! A chat app created using Node js Express Socket.io (please refer to [Server-side]() for more info!). Tacobout provides users the ability to join an anonymous chat rooms. 
 
   #### Key Features
   - Sign in page, users can pick a name and icon
@@ -16,6 +16,6 @@
 - Coming soon!
 
 ## Run Locally
-- npm i express dotenv cors socket.io
+- npm i react-router-dom
 
 
