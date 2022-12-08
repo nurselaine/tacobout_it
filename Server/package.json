@@ -14,7 +14,9 @@
   "author": "Elaine Huynh",
   "license": "ISC",
   "dependencies": {
+    "http": "^0.0.1-security",
     "react-router-dom": "^6.4.4",
-    "uuid": "^9.0.0"
+    "uuid": "^9.0.0",
+    "websocket": "^1.0.34"
   }
 }
